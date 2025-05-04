@@ -1,0 +1,9 @@
+{
+	"name": "masterclass",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0556aee7-1553-434f-a464-6f6c6df474b4",
+		"tenantId": "f9a318c8-9bb0-4655-8fdd-cc4467fbb864"
+	}
+}
